@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YQSwitch_Example' do
+  pod 'YQSwitch', :path => '../'
+
+  target 'YQSwitch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
