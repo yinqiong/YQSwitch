@@ -40,7 +40,7 @@
 		0548855D78C1392196CA44C3 /* Pods-YQSwitch_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YQSwitch_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-YQSwitch_Example/Pods-YQSwitch_Example.release.xcconfig"; sourceTree = "<group>"; };
 		159EF02810EE014F6048C862 /* Pods-YQSwitch_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YQSwitch_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YQSwitch_Example/Pods-YQSwitch_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		19E53288A518AB0149A5EB43 /* Pods_YQSwitch_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YQSwitch_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F8FBA0A3B51015C6E8F6D47 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4F8FBA0A3B51015C6E8F6D47 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5D564B710A0C24F84DE6AFB6 /* Pods-YQSwitch_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YQSwitch_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YQSwitch_Tests/Pods-YQSwitch_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* YQSwitch_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YQSwitch_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -63,8 +63,8 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		65854568663437C7CD2B3463 /* Pods_YQSwitch_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YQSwitch_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		77EABD2D8A10047534DF9B42 /* YQSwitch.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YQSwitch.podspec; path = ../YQSwitch.podspec; sourceTree = "<group>"; };
-		825DBDE1AEB93BC3BD5A5433 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		77EABD2D8A10047534DF9B42 /* YQSwitch.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YQSwitch.podspec; path = ../YQSwitch.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		825DBDE1AEB93BC3BD5A5433 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9111A62EF8F4AAB86D980044 /* Pods-YQSwitch_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YQSwitch_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-YQSwitch_Tests/Pods-YQSwitch_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

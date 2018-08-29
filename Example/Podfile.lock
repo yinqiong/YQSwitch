@@ -1,0 +1,16 @@
+PODS:
+  - YQSwitch (0.1.0)
+
+DEPENDENCIES:
+  - YQSwitch (from `../`)
+
+EXTERNAL SOURCES:
+  YQSwitch:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YQSwitch: 1beec3d9e9c8445c126a7feba5f0e0a7cba1257d
+
+PODFILE CHECKSUM: 519556ad30c117e33ac82ee8115d5b849f177d0b
+
+COCOAPODS: 1.4.0

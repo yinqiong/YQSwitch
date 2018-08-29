@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YQSwitch'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of YQSwitch.'
+  s.summary          = '完全自定义的switch'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                            你想怎么定义都行，当高度大于宽度时，移动方向时上下，请注意！
                        DESC
 
   s.homepage         = 'https://github.com/yinqiong/YQSwitch'

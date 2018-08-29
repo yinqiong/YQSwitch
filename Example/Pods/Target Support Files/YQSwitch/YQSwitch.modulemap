@@ -1,0 +1,6 @@
+framework module YQSwitch {
+  umbrella header "YQSwitch-umbrella.h"
+
+  export *
+  module * { export * }
+}
